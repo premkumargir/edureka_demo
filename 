@@ -1,0 +1,43 @@
+[33mcommit 1e6514e9bea7d4f52df94ce3f741255292a05c32[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Prem <premrandyorton@gmail.com>
+Date:   Fri Nov 12 14:15:59 2021 +0000
+
+    Revert "Deleted the index2.html file"
+    
+    This reverts commit 34ecb0bcac9b0afcd8ae79b52425e22fec38d01d.
+
+[33mcommit 34ecb0bcac9b0afcd8ae79b52425e22fec38d01d[m
+Author: Prem <premrandyorton@gmail.com>
+Date:   Fri Nov 12 14:12:44 2021 +0000
+
+    Deleted the index2.html file
+
+[33mcommit 1e75320487483fe7f0cc5f44c2556e4440497b97[m
+Author: Prem <premrandyorton@gmail.com>
+Date:   Fri Nov 12 14:08:13 2021 +0000
+
+    Second commit of the index2.html
+
+[33mcommit 4628fdc39fd4ab1341ce93ce0cd821ac9e3ca67c[m
+Author: Prem <premrandyorton@gmail.com>
+Date:   Fri Nov 12 14:01:46 2021 +0000
+
+    First commit of index2.html
+
+[33mcommit c2443e0d9bcf6f8b06d759a159d0d6c86da09348[m
+Author: Prem <premrandyorton@gmail.com>
+Date:   Fri Nov 12 13:57:10 2021 +0000
+
+    Second commit of the index.html
+
+[33mcommit 02493049272657154ef9ad3760de0e371c611797[m
+Author: Prem <premrandyorton@gmail.com>
+Date:   Fri Nov 12 13:49:15 2021 +0000
+
+    First commit of the index1.html
+
+[33mcommit 16e8ce6430eeded55d190e3d0ad81e62fd4e26c2[m
+Author: Prem <premrandyorton@gmail.com>
+Date:   Fri Nov 12 13:41:08 2021 +0000
+
+    First commit of index.html
